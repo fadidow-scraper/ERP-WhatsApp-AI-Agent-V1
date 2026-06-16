@@ -1,0 +1,5 @@
+.env
+__pycache__/
+temp_voice_notes/
+*.db
+*.log
